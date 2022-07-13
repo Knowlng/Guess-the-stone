@@ -8,3 +8,16 @@
     margin-left:20px;
 }
 
+
+.button-container {
+    margin-bottom: 50px;
+    max-width: 25%;
+    position: sticky;
+    top: 0;
+}
+
+
+.button {
+    float:right;
+}
+
